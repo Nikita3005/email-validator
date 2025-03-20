@@ -13,9 +13,3 @@ A Python-based **email validator** that checks if an email follows proper format
 
 ---
 
-## 📥 Installation
-
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/Nikita3005/email-validator.git
-   cd email-validator
